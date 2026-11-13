@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+Documentos/
+Processados/
+notas_fiscais.xlsx
+.vscode/
