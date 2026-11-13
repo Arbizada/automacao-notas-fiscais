@@ -22,6 +22,12 @@ automaticamente em uma planilha Excel.
 -   Movimentação dos documentos processados para uma pasta específica.
 -   Prevenção de sobrescrita de arquivos com nomes iguais.
 
+## 🖥️ Demonstração do projeto
+
+### Execução da automação
+
+![Execução da automação](imagens/execucao.png)
+
 ## 🛠️ Tecnologias utilizadas
 
 -   Python
